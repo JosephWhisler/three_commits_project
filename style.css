@@ -5,14 +5,19 @@
     background: #2aa282;
     color: rgb(18, 20, 18);
     font-size: 30px;
-  }
+}
 
-  .row {
+.row {
     display: flex;
-  }
-  
-  .column {
+}
+
+.column {
     flex: 50%;
     background-color: beige;
     padding-top: 10px;
-  }
+}
+
+.footer {
+    margin-top: 75px;
+    background-color: blue;
+}
